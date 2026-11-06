@@ -335,11 +335,12 @@ zombierunner/
 
 ---
 
-## Developer & Author
+## Team Members 
 
-- **Sanskar Katkar** — Solo Game Developer & Technical Artist
-  - GitHub: [@SanskarKatkar](https://github.com/SanskarKatkar)
-  - Repository: [Zombie Runner](https://github.com/SanskarKatkar/zombierunner)
+T.Ramana Teja
+
+K.Sanskar
+
 
 ---
 
